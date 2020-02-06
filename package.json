@@ -1,5 +1,5 @@
 {
-  "name": "bpanel-homepage",
+  "name": "@mediciland/bpanel-homepage",
   "version": "1.0.0",
   "description": "A bPanel plugin for displaying blockchain information on a Homepage of the application",
   "main": "dist/index.js",
